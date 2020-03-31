@@ -50,6 +50,7 @@ function stayAtHome() {
   eat();
   sleep();
   code();
+  WFH();
   repeat();
 }
 
@@ -60,5 +61,5 @@ while(_.isAlive(new Virus('COVID-19'))) {
 
 ```
 
-## < /> with ♡ by vinitshahdeo
+## Edited < /> with ♡ by Lohidasu
 
